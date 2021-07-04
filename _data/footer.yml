@@ -6,10 +6,10 @@ left_links:
   - name: Contact
     link: /contact/
 right_links:
-  - name:
-    link: https://facebook.com/
-    new_window: true
-    social_icon: Facebook
+  # - name:
+  #   link: https://facebook.com/
+  #   new_window: true
+  #   social_icon: Facebook
   - name:
     link: https://twitter.com/_____a_k_s_____
     social_icon: Twitter
@@ -22,6 +22,6 @@ right_links:
     link: https://instagram.com/_____a_k_s_____
     social_icon: Instagram
     new_window: true
-  - name:
-    link: /feed.xml
-    social_icon: RSS
+  # - name:
+  #   link: /feed.xml
+  #   social_icon: RSS
