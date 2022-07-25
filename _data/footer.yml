@@ -3,6 +3,8 @@ left_links:
   #   link: /blog/
   # - name: About
   #   link: /about/
+  - name: 3D Objects
+    link: /3d/
   - name: Contact
     link: /contact/
 right_links:
